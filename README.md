@@ -1,5 +1,5 @@
 # ComposeMaterial3Example
-Technology Stack:
+# Technology Stack:
 - Jetpack Compose
 - Material 3
 
